@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * Main - writes string programming is like building a multilingual puzzle to the output stream
+ * main - writes to the output stream
  */
 
 int main(void)
